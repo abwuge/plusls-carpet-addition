@@ -42,8 +42,6 @@
     "rule.sleepingDuringTheDay.MixinServerLevel",
     "rule.spawnBiome.MixinNaturalSpawner",
     "rule.spawnYRange.MixinNaturalSpawner",
-    "rule.superLead.MixinAbstractVillager",
-    "rule.superLead.MixinMob",
     "rule.trackItemPickupByPlayer.MixinItemEntity",
     "rule.useDyeOnShulkerBox.MixinDyeItem",
     "rule.useDyeOnShulkerBox.MixinPotionItem",
